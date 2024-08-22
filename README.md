@@ -13,14 +13,14 @@
 <br><br><br><br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayashcodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aayasha Adhikari Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayasha1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aayasha Adhikari Github Stats">
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayashacodes&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="realaayasha" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayasha1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="realaayasha" />  
 </p>      
   
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=aayashacodes&theme=juicyfresh&no-bg=true" alt="aayashacodes" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=aayashacodes&theme=juicyfresh&no-bg=true" alt="aayasha1" />  
 
 </p>
